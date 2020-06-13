@@ -4,6 +4,7 @@
   "iniValues": [
     {
           "name": "SIntroSequence",
+          "title": "Intro Video",
           "section" : "General",
           "type": "string",
           "value": {
@@ -12,6 +13,7 @@
           },
           "description": "The video to play on starting up the game. Must be the file name from the Data/Videos folder. Leave blank to skip the intro.",
           "allowPrefs": false,
+          "displayTab": "General",
           "category": "general"
     }
   ]
