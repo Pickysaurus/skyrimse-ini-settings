@@ -402,7 +402,7 @@
       "section": "Animation",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -410,7 +410,7 @@
       "section": "Animation",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -434,7 +434,7 @@
       "section": "Animation",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -442,7 +442,7 @@
       "section": "Animation",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -450,7 +450,7 @@
       "section": "Animation",
       "type": "number",
       "value": {
-        "default": "40"
+        "default": 40
       }
     },
     {
@@ -974,7 +974,7 @@
       "section": "Audio",
       "type": "number",
       "value": {
-        "default": "64"
+        "default": 64
       }
     },
     {
@@ -982,7 +982,7 @@
       "section": "Audio",
       "type": "number",
       "value": {
-        "default": "33"
+        "default": 33
       }
     },
     {
@@ -998,7 +998,7 @@
       "section": "Audio",
       "type": "number",
       "value": {
-        "default": "6"
+        "default": 6
       }
     },
     {
@@ -1054,7 +1054,7 @@
       "section": "Audio",
       "type": "number",
       "value": {
-        "default": "8"
+        "default": 8
       }
     },
     {
@@ -1062,7 +1062,7 @@
       "section": "Audio",
       "type": "number",
       "value": {
-        "default": "8"
+        "default": 8
       }
     },
     {
@@ -1287,7 +1287,7 @@
       "section": "BackgroundLoad",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -1295,7 +1295,7 @@
       "section": "BackgroundLoad",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -1303,7 +1303,7 @@
       "section": "BackgroundLoad",
       "type": "number",
       "value": {
-        "default": "20"
+        "default": 20
       }
     },
     {
@@ -1311,7 +1311,7 @@
       "section": "BackgroundLoad",
       "type": "number",
       "value": {
-        "default": "20"
+        "default": 20
       }
     },
     {
@@ -1623,7 +1623,7 @@
       "section": "Bethesda.net",
       "type": "number",
       "value": {
-        "default": "98"
+        "default": 98
       }
     },
     {
@@ -1655,7 +1655,7 @@
       "section": "Bethesda.net",
       "type": "number",
       "value": {
-        "default": "30"
+        "default": 30
       }
     },
     {
@@ -1663,7 +1663,7 @@
       "section": "Bethesda.net",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -1791,7 +1791,7 @@
       "section": "bLightAttenuation",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -1943,7 +1943,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "20"
+        "default": 20
       }
     },
     {
@@ -1951,7 +1951,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "20"
+        "default": 20
       }
     },
     {
@@ -1959,7 +1959,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -1967,7 +1967,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -1999,7 +1999,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -2007,7 +2007,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -2063,7 +2063,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -2071,7 +2071,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -2087,7 +2087,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -2175,7 +2175,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -2183,7 +2183,7 @@
       "section": "BudgetCaps",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -2871,7 +2871,7 @@
       "section": "CameraPath",
       "type": "number",
       "value": {
-        "default": "30"
+        "default": 30
       }
     },
     {
@@ -3660,7 +3660,7 @@
       "section": "Combat",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -4378,7 +4378,7 @@
       "section": "Controls",
       "type": "number",
       "value": {
-        "default": "37"
+        "default": 37
       }
     },
     {
@@ -4386,7 +4386,7 @@
       "section": "Controls",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -4394,7 +4394,7 @@
       "section": "Controls",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -4553,7 +4553,7 @@
       "section": "Decals",
       "type": "number",
       "value": {
-        "default": "25"
+        "default": 25
       }
     },
     {
@@ -4564,7 +4564,7 @@
       "value": {
         "default": 100,
         "low": 0,
-        "medium": "35",
+        "medium": 35,
         "high": 100,
         "ultra": 100
       }
@@ -6652,7 +6652,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "40"
+        "default": 40
       }
     },
     {
@@ -6660,7 +6660,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "20"
+        "default": 20
       }
     },
     {
@@ -6676,7 +6676,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -6692,7 +6692,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "20"
+        "default": 20
       }
     },
     {
@@ -6700,7 +6700,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -6708,7 +6708,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -6750,7 +6750,7 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "25"
+        "default": 25
       }
     },
     {
@@ -6759,11 +6759,11 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "4",
+        "default": 4,
         "low": 1,
-        "medium": "2",
-        "high": "4",
-        "ultra": "4"
+        "medium": 2,
+        "high": 4,
+        "ultra": 4
       }
     },
     {
@@ -6772,7 +6772,7 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -6781,7 +6781,7 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -6856,7 +6856,7 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -6866,7 +6866,33 @@
       "type": "number",
       "value": {
         "default": 1080
-      }
+      },
+      "choices": [
+        {
+          "label": "800 x 600",
+          "value": 600
+        },
+        {
+          "label": "1280 x 720",
+          "value": 720
+        },
+        {
+          "label": "1360 x 768",
+          "value": 768
+        },
+        {
+          "label": "1366 x 768",
+          "value": 768
+        },
+        {
+          "label": "1920 x 1080",
+          "value": 1080
+        },
+        {
+          "label": "2560 x 1440",
+          "value": 1440
+        }
+      ]
     },
     {
       "name": "iSize W",
@@ -6875,14 +6901,40 @@
       "type": "number",
       "value": {
         "default": 1920
-      }
+      },
+      "choices": [
+        {
+          "label": "800 x 600",
+          "value": 800
+        },
+        {
+          "label": "1280 x 720",
+          "value": 1280
+        },
+        {
+          "label": "1360 x 768",
+          "value": 1360
+        },
+        {
+          "label": "1366 x 768",
+          "value": 1366
+        },
+        {
+          "label": "1920 x 1080",
+          "value": 1920
+        },
+        {
+          "label": "2560 x 1440",
+          "value": 2560
+        }
+      ]
     },
     {
       "name": "iSnowSparklesColor",
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -6890,7 +6942,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -6898,7 +6950,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -6906,7 +6958,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "8"
+        "default": 8
       }
     },
     {
@@ -6914,7 +6966,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "32"
+        "default": 32
       }
     },
     {
@@ -6922,7 +6974,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "32"
+        "default": 32
       }
     },
     {
@@ -6930,7 +6982,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "32"
+        "default": 32
       }
     },
     {
@@ -6943,7 +6995,7 @@
         "low": 0,
         "medium": 1,
         "high": 1,
-        "ultra": "2"
+        "ultra": 2
       }
     },
     {
@@ -6951,7 +7003,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "90"
+        "default": 90
       }
     },
     {
@@ -6959,7 +7011,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -6967,7 +7019,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "70"
+        "default": 70
       }
     },
     {
@@ -7007,7 +7059,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "96"
+        "default": 96
       }
     },
     {
@@ -7073,7 +7125,7 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -7081,7 +7133,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -7089,7 +7141,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "7"
+        "default": 7
       }
     },
     {
@@ -7097,7 +7149,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -7113,7 +7165,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -7121,7 +7173,7 @@
       "section": "Display",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -7145,7 +7197,7 @@
       "section": "FaceGen",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -7289,7 +7341,7 @@
       "section": "FootIK",
       "type": "number",
       "value": {
-        "default": "30"
+        "default": 30
       }
     },
     {
@@ -7417,7 +7469,7 @@
       "section": "Gameplay",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -7425,7 +7477,7 @@
       "section": "Gameplay",
       "type": "number",
       "value": {
-        "default": "21"
+        "default": 21
       }
     },
     {
@@ -7460,7 +7512,7 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -8232,7 +8284,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -8240,7 +8292,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -8248,7 +8300,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -8256,7 +8308,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -8264,7 +8316,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -8272,7 +8324,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -8280,7 +8332,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -8296,7 +8348,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -8304,7 +8356,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "32"
+        "default": 32
       }
     },
     {
@@ -8320,7 +8372,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -8591,7 +8643,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "36"
+        "default": 36
       }
     },
     {
@@ -8599,7 +8651,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -8655,7 +8707,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -8663,7 +8715,7 @@
       "section": "General",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -8688,11 +8740,11 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "9",
-        "low": "5",
-        "medium": "7",
-        "high": "9",
-        "ultra": "11"
+        "default": 9,
+        "low": 5,
+        "medium": 7,
+        "high": 9,
+        "ultra": 11
       }
     },
     {
@@ -8883,23 +8935,29 @@
       "section": "Grass",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
       "name": "iMaxGrassTypesPerTexure",
+      "title": "Grass Diversity",
       "section": "Grass",
-      "type": "number",
+      "type": "range",
       "value": {
-        "default": "2"
-      }
+        "default": 2,
+        "min": 0,
+        "max": 15
+      },
+      "rangeStepSize": 1,
+      "displayTab": "General",
+      "category": "general"
     },
     {
       "name": "iMinGrassSize",
       "section": "Grass",
       "type": "number",
       "value": {
-        "default": "20"
+        "default": 20
       }
     },
     {
@@ -9251,7 +9309,7 @@
       "section": "HAVOK",
       "type": "number",
       "value": {
-        "default": "8"
+        "default": 8
       }
     },
     {
@@ -9275,7 +9333,7 @@
       "section": "HAVOK",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -9363,7 +9421,7 @@
       "section": "HeadTracking",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -11065,7 +11123,7 @@
       "section": "Interface",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -11073,7 +11131,7 @@
       "section": "Interface",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -11081,7 +11139,7 @@
       "section": "Interface",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -11187,7 +11245,7 @@
       "section": "Interface",
       "type": "number",
       "value": {
-        "default": "32"
+        "default": 32
       }
     },
     {
@@ -11195,7 +11253,7 @@
       "section": "Interface",
       "type": "number",
       "value": {
-        "default": "6"
+        "default": 6
       }
     },
     {
@@ -11203,7 +11261,7 @@
       "section": "JobList",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -11211,7 +11269,7 @@
       "section": "JobList",
       "type": "number",
       "value": {
-        "default": "6"
+        "default": 6
       }
     },
     {
@@ -11235,7 +11293,7 @@
       "section": "JobList",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -11259,7 +11317,7 @@
       "section": "JobList",
       "type": "number",
       "value": {
-        "default": "5"
+        "default": 5
       }
     },
     {
@@ -11267,7 +11325,7 @@
       "section": "JobList",
       "type": "number",
       "value": {
-        "default": "6"
+        "default": 6
       }
     },
     {
@@ -11275,7 +11333,7 @@
       "section": "JobList",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -11283,7 +11341,7 @@
       "section": "JobList",
       "type": "number",
       "value": {
-        "default": "6"
+        "default": 6
       }
     },
     {
@@ -11299,7 +11357,7 @@
       "section": "JobList",
       "type": "number",
       "value": {
-        "default": "6"
+        "default": 6
       }
     },
     {
@@ -11307,7 +11365,7 @@
       "section": "Jobs",
       "type": "number",
       "value": {
-        "default": "30"
+        "default": 30
       }
     },
     {
@@ -11856,10 +11914,10 @@
       "type": "float",
       "value": {
         "default": 6.0000,
-        "low": "5",
-        "medium": "7",
-        "high": "9",
-        "ultra": "15"
+        "low": 5,
+        "medium": 7,
+        "high": 9,
+        "ultra": 15
       }
     },
     {
@@ -11870,9 +11928,9 @@
       "value": {
         "default": 3.0000,
         "low": 1.5,
-        "medium": "3",
-        "high": "6",
-        "ultra": "10"
+        "medium": 3,
+        "high": 6,
+        "ultra": 10
       }
     },
     {
@@ -11882,10 +11940,10 @@
       "type": "float",
       "value": {
         "default": 5.0000,
-        "low": "5",
-        "medium": "7",
-        "high": "9",
-        "ultra": "30"
+        "low": 5,
+        "medium": 7,
+        "high": 9,
+        "ultra": 30
       }
     },
     {
@@ -12182,7 +12240,7 @@
       "section": "MAIN",
       "type": "number",
       "value": {
-        "default": "40"
+        "default": 40
       }
     },
     {
@@ -12566,7 +12624,7 @@
       "section": "MapMenu",
       "type": "number",
       "value": {
-        "default": "16"
+        "default": 16
       }
     },
     {
@@ -12574,7 +12632,7 @@
       "section": "MapMenu",
       "type": "number",
       "value": {
-        "default": "32"
+        "default": 32
       }
     },
     {
@@ -12590,7 +12648,7 @@
       "section": "Menu",
       "type": "number",
       "value": {
-        "default": "40"
+        "default": 40
       }
     },
     {
@@ -12598,7 +12656,7 @@
       "section": "Menu",
       "type": "number",
       "value": {
-        "default": "20"
+        "default": 20
       }
     },
     {
@@ -13781,7 +13839,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -13789,7 +13847,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -13797,7 +13855,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "10"
+        "default": 10
       }
     },
     {
@@ -13805,7 +13863,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -13813,7 +13871,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -13829,7 +13887,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "32"
+        "default": 32
       }
     },
     {
@@ -13837,7 +13895,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -13845,7 +13903,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -13853,7 +13911,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -13861,7 +13919,7 @@
       "section": "Pathfinding",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -14190,7 +14248,7 @@
       "section": "SaveGame",
       "type": "number",
       "value": {
-        "default": "3"
+        "default": 3
       }
     },
     {
@@ -14222,7 +14280,7 @@
       "section": "SaveGame",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -14522,7 +14580,7 @@
       "allowPrefs": true,
       "type": "number",
       "value": {
-        "default": "40"
+        "default": 40
       }
     },
     {
@@ -14762,7 +14820,7 @@
       "section": "Verlet",
       "type": "number",
       "value": {
-        "default": "12"
+        "default": 12
       }
     },
     {
@@ -14770,7 +14828,7 @@
       "section": "Verlet",
       "type": "number",
       "value": {
-        "default": "50"
+        "default": 50
       }
     },
     {
@@ -15070,7 +15128,7 @@
       "section": "Water",
       "type": "number",
       "value": {
-        "default": "2"
+        "default": 2
       }
     },
     {
@@ -15078,7 +15136,7 @@
       "section": "Water",
       "type": "number",
       "value": {
-        "default": "4"
+        "default": 4
       }
     },
     {
@@ -15086,7 +15144,7 @@
       "section": "Water",
       "type": "number",
       "value": {
-        "default": "12"
+        "default": 12
       }
     },
     {
