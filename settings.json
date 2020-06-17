@@ -8445,7 +8445,7 @@
       },
       "description": "The video to play on starting up the game. Must be the file name from the Data/Videos folder. Leave blank to skip the intro.",
       "displayTab": "General",
-      "category": "general"
+      "visible": true
     },
     {
       "name": "sLanguage",
@@ -8950,7 +8950,7 @@
       },
       "rangeStepSize": 1,
       "displayTab": "General",
-      "category": "general"
+      "visible": true
     },
     {
       "name": "iMinGrassSize",
@@ -14241,7 +14241,9 @@
       "type": "float",
       "value": {
         "default": 15.0000
-      }
+      },
+      "displayTab": "General",
+      "visible": true
     },
     {
       "name": "iAutoSaveCount",
@@ -14249,7 +14251,9 @@
       "type": "number",
       "value": {
         "default": 3
-      }
+      },
+      "displayTab": "General",
+      "visible": true
     },
     {
       "name": "iSaveGameBackupCount",
