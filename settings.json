@@ -576,7 +576,7 @@
     {
       "name": "sResourceArchiveList2",
       "section": "Archive",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -585,7 +585,7 @@
     {
       "name": "sResourceArchiveListBeta",
       "section": "Archive",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -594,7 +594,7 @@
     {
       "name": "sResourceArchiveRetainFileNameList",
       "section": "Archive",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -963,7 +963,7 @@
     {
       "name": "sMissingAssetSoundFile",
       "section": "Audio",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1453,7 +1453,7 @@
     {
       "name": "sAccountsURL",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1462,7 +1462,7 @@
     {
       "name": "sBethesdaBeam",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1471,7 +1471,7 @@
     {
       "name": "sBethesdaBeamKey",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1480,7 +1480,7 @@
     {
       "name": "sBethesdaCDP",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1489,7 +1489,7 @@
     {
       "name": "sBethesdaEntitlements",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1498,7 +1498,7 @@
     {
       "name": "sBethesdaLoggingKey",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1507,7 +1507,7 @@
     {
       "name": "sBethesdaOAuthId",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1516,7 +1516,7 @@
     {
       "name": "sBethesdaSession",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1525,7 +1525,7 @@
     {
       "name": "sBethesdaUGC",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1534,7 +1534,7 @@
     {
       "name": "sBethesdaUSL",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1543,7 +1543,7 @@
     {
       "name": "sBethesdaVCCS",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1560,7 +1560,7 @@
     {
       "name": "sCreationsInstallDirectory",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1569,7 +1569,7 @@
     {
       "name": "sDeveloperEmail",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1578,7 +1578,7 @@
     {
       "name": "sDeveloperUsername",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1603,7 +1603,7 @@
     {
       "name": "sModsInstallDirectory",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1612,7 +1612,7 @@
     {
       "name": "sModsURL",
       "section": "Bethesda.net",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -1670,7 +1670,7 @@
       "name": "uPersistentUuidData0",
       "section": "Bethesda.net",
       "allowPrefs": true,
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "number",
       "value": {
         "default": ""
@@ -1680,7 +1680,7 @@
       "name": "uPersistentUuidData1",
       "section": "Bethesda.net",
       "allowPrefs": true,
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "number",
       "value": {
         "default": ""
@@ -1690,7 +1690,7 @@
       "name": "uPersistentUuidData2",
       "section": "Bethesda.net",
       "allowPrefs": true,
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "number",
       "value": {
         "default": ""
@@ -1700,7 +1700,7 @@
       "name": "uPersistentUuidData3",
       "section": "Bethesda.net",
       "allowPrefs": true,
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "number",
       "value": {
         "default": ""
@@ -2901,7 +2901,7 @@
     {
       "name": "sOffsetID",
       "section": "CameraPath",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8411,7 +8411,7 @@
     {
       "name": "sEssentialFileCacheList",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8428,7 +8428,7 @@
     {
       "name": "sIntroMovie",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8482,7 +8482,7 @@
     {
       "name": "sMainMenuMovieIntro",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8490,16 +8490,30 @@
     },
     {
       "name": "sMainMenuMusic",
+      "title": "Main Menu Music",
       "section": "General",
-      "type": "string",
+      "description": "The music to play at the main menu.",
+      "type": "choice",
       "value": {
         "default": "\\Data\\Music\\Special\\MUS_MainTheme.xwm"
-      }
+      },
+      "choices": [
+        {
+          "label": "On",
+          "value": "\\Data\\Music\\Special\\MUS_MainTheme.xwm"
+        },
+        {
+          "label": "Off",
+          "value": ""
+        }
+      ],
+      "displayTab": "General",
+      "visible": true
     },
     {
       "name": "sStartingCell",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8508,7 +8522,7 @@
     {
       "name": "sStartingCellX",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8517,7 +8531,7 @@
     {
       "name": "sStartingCellY",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8526,7 +8540,7 @@
     {
       "name": "sStartingWorld",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8543,7 +8557,7 @@
     {
       "name": "sTestFile10",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8552,7 +8566,7 @@
     {
       "name": "sTestFile2",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8561,7 +8575,7 @@
     {
       "name": "sTestFile3",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8570,7 +8584,7 @@
     {
       "name": "sTestFile4",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8579,7 +8593,7 @@
     {
       "name": "sTestFile5",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8588,7 +8602,7 @@
     {
       "name": "sTestFile6",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8597,7 +8611,7 @@
     {
       "name": "sTestFile7",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8606,7 +8620,7 @@
     {
       "name": "sTestFile8",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8615,7 +8629,7 @@
     {
       "name": "sTestFile9",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -8632,7 +8646,7 @@
     {
       "name": "sUnessentialFileCacheList",
       "section": "General",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -11217,7 +11231,7 @@
     {
       "name": "sForcedLoadScreenEditorID",
       "section": "Interface",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -11234,7 +11248,7 @@
     {
       "name": "sUIMistMenu_DefaultLogoCameraPath",
       "section": "Interface",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -11677,7 +11691,7 @@
       "name": "sD3DDevice",
       "section": "Launcher",
       "allowPrefs": true,
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
@@ -12790,7 +12804,7 @@
     {
       "name": "sDisabledProgramFlowContexts",
       "section": "MESSAGES",
-      "hideIfBlank": true,
+      "includeIfBlank": false,
       "type": "string",
       "value": {
         "default": ""
