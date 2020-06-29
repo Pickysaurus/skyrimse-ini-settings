@@ -4619,12 +4619,16 @@
     },
     {
       "name": "bBorderless",
+      "title": "Borderless",
       "section": "Display",
+      "description": "Toggles the window border on/off.",
       "allowPrefs": true,
       "type": "boolean",
       "value": {
         "default": 0
-      }
+      },
+      "displayTab": "General",
+      "visible": true
     },
     {
       "name": "bBreakOnValidationError",
@@ -4888,16 +4892,22 @@
     },
     {
       "name": "bFull Screen",
+      "title": "Windowed Mode",
       "section": "Display",
+      "description": "Toggles between fullscreen and windowed mode.",
       "allowPrefs": true,
       "type": "boolean",
       "value": {
         "default": 0
-      }
+      },
+      "displayTab": "General",
+      "visible": true
     },
     {
       "name": "bFXAAEnabled",
+      "title": "FXAA",
       "section": "Display",
+      "description": "Toggles an almost zero-cost approximation of fake antialiasing using the FXAA technique.",
       "allowPrefs": true,
       "type": "boolean",
       "value": {
@@ -4906,7 +4916,9 @@
         "medium": 0,
         "high": 0,
         "ultra": 0
-      }
+      },
+      "displayTab": "General",
+      "visible": true
     },
     {
       "name": "bIBLFEnable",
@@ -4964,11 +4976,15 @@
     },
     {
       "name": "bLockFramerate",
+      "title": "Lock Framerate",
       "section": "Display",
+      "description": "Lock the framerate to 60 frames per second.",
       "type": "boolean",
       "value": {
         "default": 1
-      }
+      },
+      "displayTab": "General",
+      "visible": true
     },
     {
       "name": "bLodZPrepass",
@@ -5079,11 +5095,15 @@
     },
     {
       "name": "bShowMarkers",
+      "title": "Show Markers",
       "section": "Display",
+      "description": "Show markers for objects and their bounds as seen in the Creation Kit.",
       "type": "boolean",
       "value": {
         "default": 0
-      }
+      },
+      "displayTab": "General",
+      "visible": false
     },
     {
       "name": "bShowMenuTextureUse",
@@ -7096,12 +7116,15 @@
     },
     {
       "name": "iVSyncPresentInterval",
+      "title": "VSync",
       "section": "Display",
+      "description": "Toggles Vertical Synchonisation (VSync), which removes screen tearing.",
       "allowPrefs": true,
       "type": "number",
       "value": {
         "default": 1
-      }
+      },
+      "visible": true
     },
     {
       "name": "sDebugText",
@@ -7525,11 +7548,15 @@
     },
     {
       "name": "bAlwaysActive",
+      "title": "Always Active",
       "section": "General",
+      "description": "Toggles the ability for the game to remain active when it is out of focus.",
       "type": "boolean",
       "value": {
         "default": 0
-      }
+      },
+      "displayTab": "General",
+      "visible": true
     },
     {
       "name": "bAnimateDoorPhysics",
@@ -8273,11 +8300,15 @@
     },
     {
       "name": "iFPSClamp",
+      "title": "FPS Clamp",
       "section": "General",
+      "description": "Clamps the game's speed to the FPS",
       "type": "number",
       "value": {
         "default": 0
-      }
+      },
+      "displayTab": "General",
+      "visible": false
     },
     {
       "name": "iHWThread1",
@@ -8963,7 +8994,7 @@
         "max": 15
       },
       "rangeStepSize": 1,
-      "displayTab": "General",
+      "displayTab": "Visuals",
       "visible": true
     },
     {
