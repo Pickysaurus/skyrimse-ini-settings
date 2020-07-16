@@ -34,7 +34,8 @@
       "section": "Actor",
       "type": "boolean",
       "value": {
-        "default": 1
+        "default": 1,
+        "fixedDefault": 0
       }
     },
     {
@@ -482,7 +483,8 @@
       "section": "Archive",
       "type": "boolean",
       "value": {
-        "default": 0
+        "default": 0,
+        "fixedDefault": 1
       }
     },
     {
@@ -546,7 +548,8 @@
       "section": "Archive",
       "type": "string",
       "value": {
-        "default": "Skyrim - Animations.bsa, Skyrim - Interface.bsa, Skyrim - Misc.bsa, Skyrim - Sounds.bsa"
+        "default": "Skyrim - Animations.bsa, Skyrim - Interface.bsa, Skyrim - Misc.bsa, Skyrim - Sounds.bsa",
+        "fixedDefault": "Skyrim - Animations.bsa"
       }
     },
     {
@@ -570,7 +573,8 @@
       "section": "Archive",
       "type": "string",
       "value": {
-        "default": "Skyrim - Misc.bsa, Skyrim - Shaders.bsa, Skyrim - Textures.bsa, Skyrim - Meshes.bsa, Skyrim - Animations.bsa, Skyrim - Voices.bsa, Skyrim - VoicesExtra.bsa, Skyrim - Interface.bsa, Skyrim - Sounds.bsa"
+        "default": "Skyrim - Misc.bsa, Skyrim - Shaders.bsa, Skyrim - Textures.bsa, Skyrim - Meshes.bsa, Skyrim - Animations.bsa, Skyrim - Voices.bsa, Skyrim - VoicesExtra.bsa, Skyrim - Interface.bsa, Skyrim - Sounds.bsa",
+        "fixedDefault": "Skyrim - Misc.bsa, Skyrim - Shaders.bsa, Skyrim - Interface.bsa, Skyrim - Animations.bsa, Skyrim - Meshes0.bsa, Skyrim - Meshes1.bsa, Skyrim - Sounds.bsa"
       }
     },
     {
@@ -579,7 +583,8 @@
       "includeIfBlank": false,
       "type": "string",
       "value": {
-        "default": ""
+        "default": "",
+        "fixedDefault": "Skyrim - Voices_en0.bsa, Skyrim - Textures0.bsa, Skyrim - Textures1.bsa, Skyrim - Textures2.bsa, Skyrim - Textures3.bsa, Skyrim - Textures4.bsa, Skyrim - Textures5.bsa, Skyrim - Textures6.bsa, Skyrim - Textures7.bsa, Skyrim - Textures8.bsa, Skyrim - Patch.bsa"
       }
     },
     {
@@ -781,7 +786,8 @@
       "section": "Audio",
       "type": "float",
       "value": {
-        "default": 0.5000
+        "default": 0.5000,
+        "fixedDefault": 1.0000
       }
     },
     {
@@ -789,7 +795,8 @@
       "section": "Audio",
       "type": "float",
       "value": {
-        "default": 0.5000
+        "default": 0.5000,
+        "fixedDefault": 3.0000
       }
     },
     {
@@ -805,7 +812,8 @@
       "section": "Audio",
       "type": "float",
       "value": {
-        "default": 1.0000
+        "default": 1.0000,
+        "fixedDefault":  6.0000
       }
     },
     {
@@ -829,7 +837,8 @@
       "section": "Audio",
       "type": "float",
       "value": {
-        "default": 4.0000
+        "default": 4.0000,
+        "fixedDefault": 8.0000
       }
     },
     {
@@ -3556,7 +3565,8 @@
       "section": "Combat",
       "type": "float",
       "value": {
-        "default": 10.0000
+        "default": 10.0000,
+        "fixedDefault": 0.0000
       }
     },
     {
@@ -3596,7 +3606,8 @@
       "section": "Combat",
       "type": "float",
       "value": {
-        "default": 0.5000
+        "default": 0.5000,
+        "fixedDefault": 0.0000
       }
     },
     {
@@ -4553,7 +4564,8 @@
       "section": "Decals",
       "type": "number",
       "value": {
-        "default": 25
+        "default": 25,
+        "fixedDefault": 60
       }
     },
     {
@@ -5395,7 +5407,8 @@
       "section": "Display",
       "type": "float",
       "value": {
-        "default": 1.6000
+        "default": 1.6000,
+        "fixedDefault": 2.0000
       }
     },
     {
@@ -5491,7 +5504,8 @@
       "section": "Display",
       "type": "float",
       "value": {
-        "default": 50000.0000
+        "default": 50000.0000,
+        "fixedDefault": 10000.0000
       }
     },
     {
@@ -5540,7 +5554,8 @@
       "section": "Display",
       "type": "float",
       "value": {
-        "default": 0.7000
+        "default": 0.7000,
+        "fixedDefault": 0.4000
       }
     },
     {
@@ -5620,7 +5635,8 @@
       "section": "Display",
       "type": "float",
       "value": {
-        "default": 1250.0000
+        "default": 1250.0000,
+        "fixedDefault": 2000.0000
       }
     },
     {
@@ -8582,7 +8598,8 @@
       "section": "General",
       "type": "string",
       "value": {
-        "default": "Skyrim.esm"
+        "default": "Skyrim.esm",
+        "fixedDefault": "Dawnguard.esm"
       }
     },
     {
@@ -8600,7 +8617,8 @@
       "includeIfBlank": false,
       "type": "string",
       "value": {
-        "default": ""
+        "default": "",
+        "fixedDefault": "HearthFires.esm"
       }
     },
     {
@@ -8609,7 +8627,8 @@
       "includeIfBlank": false,
       "type": "string",
       "value": {
-        "default": ""
+        "default": "",
+        "fixedDefault": "Dragonborn.esm"
       }
     },
     {
@@ -9524,7 +9543,8 @@
       "section": "Imagespace",
       "type": "number",
       "value": {
-        "default": 0
+        "default": 0,
+        "fixedDefault": 2
       }
     },
     {
@@ -11741,7 +11761,8 @@
       "section": "LightingShader",
       "type": "float",
       "value": {
-        "default": 0.0600
+        "default": 0.0600,
+        "fixedDefault": 0.5000
       }
     },
     {
@@ -11749,7 +11770,8 @@
       "section": "LightingShader",
       "type": "float",
       "value": {
-        "default": 0.0500
+        "default": 0.0500,
+        "fixedDefault": 0.4500
       }
     },
     {
@@ -13043,7 +13065,8 @@
       "section": "Papyrus",
       "type": "float",
       "value": {
-        "default": 2000.0000
+        "default": 2000.0000,
+        "fixedDefault": 500.000
       }
     },
     {
